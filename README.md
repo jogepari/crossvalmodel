@@ -37,7 +37,7 @@ Using an ensemble of models trained during cross-validation is a typical part of
     
   
 ```
-	X, y: array-like, compatible with sklearn-like splitter
+  X, y: array-like, compatible with sklearn-like splitter
 
   *data_args : array-like, compatible with sklearn-like splitter
       additional fit data parameters, e.g. weights.
@@ -74,4 +74,4 @@ Using an ensemble of models trained during cross-validation is a typical part of
 ## Development
 This project has not fully formed yet, so significant changes in API might happen in the future.
 
-Any contributions are welcome.
+Any contributions are welcome!
